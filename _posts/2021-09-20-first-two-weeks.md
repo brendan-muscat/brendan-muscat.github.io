@@ -34,7 +34,7 @@ Adding nav bar and background-image, making use of basic flexbox functions
 
 Adding a form, utilising table element and more flexbox functions. 
 
-![Wk 2]({{site.baseurl}}/_posts/Screen Shot 2021-09-20 at 1.19.41 pm.png)
+![]({{site.baseurl}}/Screen Shot 2021-09-20 at 1.19.41 pm.png)
 
 ## Thoughts
 
