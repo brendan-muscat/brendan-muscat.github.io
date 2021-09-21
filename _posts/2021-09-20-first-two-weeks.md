@@ -28,7 +28,7 @@ A website I'm building for my DJ business.
 
 Adding nav bar and background-image, making use of basic flexbox functions
 
-![Wk 1]({{site.baseurl}}/screenshot.png)
+![]({{site.baseurl}}/wk1.png)
 
 ### Week 2
 
