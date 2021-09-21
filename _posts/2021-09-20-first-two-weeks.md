@@ -17,7 +17,7 @@ I decided I needed a way to track my coding sessions. I found a simple google ex
 
 I’ve tried other time trackers and productivity apps yet I haven’t found something more simplistic and minimal as this one. It's also free to use and you can export your sessions to an excel spreadsheet if need be: 
 
-![Simple Time Track]({{site.baseurl}}/Screen Shot 2021-09-20 at 7.41.10 pm.png)
+![]({{site.baseurl}}/Screen Shot 2021-09-20 at 7.41.10 pm.png)
 
 [Google Ext](https://chrome.google.com/webstore/detail/simple-time-tracker/ifdmgpcchapjlldljfegfdnojaieacmn?hl=en)
 
